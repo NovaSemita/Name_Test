@@ -1,1 +1,1 @@
-<Your Name> - <Your GitHub username>
+(Your Name) - (Your GitHub username)
